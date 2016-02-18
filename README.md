@@ -9,7 +9,6 @@ import ru.cbr.candidatesCheck.repository.ICandidateRepository;
 import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.List;
- @RestController
 
 @Service
 public class CandidateService {
